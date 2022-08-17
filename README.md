@@ -1,2 +1,2 @@
 # comparePagedesign
-None
+<img src = "assets/img/compare.png">
